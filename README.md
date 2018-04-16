@@ -4,7 +4,8 @@ Travian farmer developed by me in python
 <br>
 Optimized for python2.7 and python3
 <br>
-<b>PRE REQUISITES</b>
+<br>
+<center><b>PRE REQUISITES</b></center>
 <br>
 apt-get install pip3
 pip install robobrowser
@@ -13,4 +14,4 @@ pip install robobrowser
 <br>
 (to be published soon)
 <br>
-LETS <b>DESTROYYYYYYYYYYYYYYYYYYYYYYY</b>
+<center>LETS <b>DESTROYYYYYYYYYYYYYYYYYYYYYYY</b></center>
