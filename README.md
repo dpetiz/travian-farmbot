@@ -4,7 +4,7 @@ Travian farmer developed by me in python
 <br>
 Optimized for python2.7 and python3
 <br>
-PRE REQUISITES
+<b>PRE REQUISITES
 <br>
 apt-get install pip3
 pip install robobrowser
