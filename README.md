@@ -7,7 +7,7 @@ Optimized for python2.7 and python3
 <br>
 <center><b>PRE REQUISITES</b></center>
 <br>
-apt-get install pip3<br>
+apt-get (or yum) install pip3<br>
 pip install robobrowser
 <br>
 <b>Version 1.1</b>
